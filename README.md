@@ -1,4 +1,4 @@
-# EXPERIMENT-NO--04-Distance measurement using Ultrasonic sensor
+# EX.NO:4 Distance measurement using Ultrasonic sensor
 
 ## AIM: 
 To measure the distance for the given obstacle using ultrasonic sensor(HC - SR04).
